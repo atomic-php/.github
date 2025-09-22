@@ -11,6 +11,7 @@ Packages
 
 - http-kernel — Ultra‑slim PSR‑15 kernel with compile‑time middleware pipelines
 - router — Blazingly fast PSR‑7/15 router with static and parameterized routes
+- container — Lightweight PSR‑11 DI container with compile‑time preparation
 
 Guiding principle
 > “An idiot admires complexity, a genius admires simplicity.” — Terry A. Davis
