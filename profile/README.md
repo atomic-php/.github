@@ -13,7 +13,7 @@ Packages
 - router — Blazingly fast PSR‑7/15 router with static and parameterized routes
 
 Guiding principle
-“An idiot admires complexity, a genius admires simplicity.” — Terry A. Davis
+> “An idiot admires complexity, a genius admires simplicity.” — Terry A. Davis
 
 ## Roadmap
 
