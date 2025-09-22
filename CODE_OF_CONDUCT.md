@@ -6,5 +6,5 @@ We are committed to a welcoming and inclusive community.
 - Assume positive intent and collaborate in good faith.
 - Harassment and abuse are not tolerated.
 
-If you experience or witness unacceptable behavior, please report it privately (see SECURITY.md) or to a maintainer.
+If you experience or witness unacceptable behavior, please report it protectedly (see SECURITY.md) or to a maintainer.
 

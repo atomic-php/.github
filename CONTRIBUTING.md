@@ -31,5 +31,5 @@ Thanks for your interest in contributing! We welcome pull requests and ideas.
 
 ## Security
 
-Please report security issues privately. See SECURITY.md for instructions.
+Please report security issues protectedly. See SECURITY.md for instructions.
 
