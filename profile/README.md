@@ -7,6 +7,8 @@ High‑performance, PSR‑friendly PHP building blocks. Our focus is on:
 - Interop: strict adherence to PSR standards (PSR‑7/11/12/15)
 - Quality: comprehensive tests, static analysis, and consistent code style
 
+> Please mind the fact that this is a hobby project and not a serious production ready collection.
+
 Packages
 
 - http-kernel — Ultra‑slim PSR‑15 kernel with compile‑time middleware pipelines
